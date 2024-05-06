@@ -4,7 +4,7 @@ MERN-E-Commerce-Frontend is the frontend of an e-commerce web application built 
 
 ## Live Link
 
-You can access the live application at [https://e-shopit.vercel.app/](https://e-shopit.vercel.app/).
+You can access the live application at [https://e-commerce-psi-three-88.vercel.app/](https://e-commerce-psi-three-88.vercel.app/).
 
 ## Features
 
@@ -39,7 +39,7 @@ You can access the live application at [https://e-shopit.vercel.app/](https://e-
 
 ## Backend
 
-The backend of the application is built with NodeJS and ExpressJS and uses a MongoDB database to store the product and user data. The source code for the backend can be found at [https://github.com/Saurabh-8585/MERN-E-Commerce-Backend](https://github.com/Saurabh-8585/MERN-E-Commerce-Backend).
+The backend of the application is built with NodeJS and ExpressJS and uses a MongoDB database to store the product and user data. The source code for the backend can be found at [https://github.com/ranumali72/E-commerce-Frontend.git](https://github.com/ranumali72/E-commerce-Frontend.git).
 
 
 ## License
